@@ -113,7 +113,9 @@
 																width:20px;
 																margin-bottom:0px;'>
 								<p class='helv' style = 'margin-top:0px;
-														font-size:15px;'>+639557221727</p>					
+														font-size:15px;'>+639557221727</p>		
+								<p class='helv' style = 'margin-top:0px;
+														font-size:15px;'>+639293724697</p>															
 							</div>
 							<div style='
 										height:225px;'>
@@ -128,44 +130,44 @@
 											margin:0px;'>
 								</div>
 								<h5 class='skills helv' style = 'position:absolute;
-															top:150px;
+															top:180px;
 															left:0px;
 															width:65px;'>Bootstrap</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:128px;
+									top:158px;
 									left:85px;
 									width:40px;'>.NET</h5>
 							
 								<h5 class='skills helv' style = 'position:absolute;
-									top:165px;
+									top:195px;
 									left:0px;
 									width:70px;'>Materialize</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:165px;
+									top:195px;
 									left:90px;
 									width:80px;'>React-native</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:202px;
+									top:232px;
 									left:0px;
 									width:50px;'>Laravel</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:202px;
+									top:232px;
 									left:70px;
 									width:45px;'>Django</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:202px;
+									top:232px;
 									left:135px;
 									width:45px;'>Odoo</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:239px;
+									top:269px;
 									left:0px;
 									width:50px;'>Jquery</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:239px;
+									top:269px;
 									left:70px;
 									width:100px;'>Android Studio</h5>
 								<h5 class='skills helv' style = 'position:absolute;
-									top:276px;
+									top:306px;
 									left:0px;
 									width:50px;'>Arduino</h5>
 							</div>
