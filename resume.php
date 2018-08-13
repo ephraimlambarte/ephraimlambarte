@@ -170,6 +170,10 @@
 									top:306px;
 									left:0px;
 									width:50px;'>Arduino</h5>
+								<h5 class='skills helv' style = 'position:absolute;
+									top:306px;
+									left:70px;
+									width:45px;'>Vuejs</h5>
 							</div>
 							<div>
 								<h2 class='white helv' style = 'margin-bottom:0px;
@@ -260,6 +264,18 @@
 										margin:0px;'>
 							</div>
 							<div style = 'padding-left:20px;'>
+								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>PHP Programmer</h3>
+								<label class='helv' style ='margin:0px;'>Compass Call Hub</label>
+								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Octagon Centre, Pasig, Metro Manila, Philippines</p>
+								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>07/04/2018 - Present</p>
+								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px;'>Achievement/Tasks:</p>
+								<ul style ='margin:0px;'>
+									<li class='helv' style = 'font-size:12px; margin:0px;'>Maintain and develop websites for the company.</li>
+								</ul>
+								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px; display:inline;'>Contact:</p>
+								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'> Darrel Remoroza - dlremoroza@owtel.com</p>
+							</div>
+							<div style = 'padding-left:20px;'>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Senior Web Developer</h3>
 								<label class='helv' style ='margin:0px;'>Zamboanga City Medical Center</label>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Zamboanga City, Philippines</p>
@@ -311,6 +327,9 @@
 								<p class='certificates'>DEANS LISTER AWARD (12/2017)</p> 
 								<p class='certificates'>UNIVERSITY STUDENT COUNCIL (02/2018)</p> 
 							</div>
+							
+						</div>
+						<div>
 							<h2 class='white helv' style = 'margin-bottom:0px;
 															margin-top:20px;
 															color:#479099;
@@ -321,15 +340,13 @@
 										height:1px; 
 										border-top-style:solid;
 										margin:0px;'>
-						</div>
+							</div>
 							<div style = 'padding-left:20px; '>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>BS Computer Science</h3>
 								<label class='helv' style ='margin:0px;'>Western Mindanao State University</label>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Zamboanga City, Philippines</p>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>06/2014 - 03/2018</p>
 							</div>
-						</div>
-						<div>
 							<h2 class='white helv' style = 'margin-bottom:0px;
 							margin-top:20px;
 							color:#479099;
