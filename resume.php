@@ -118,7 +118,7 @@
 														font-size:15px;'>+639293724697</p>															
 							</div>
 							<div style='
-										height:225px;'>
+										height:240px;'>
 								<h2 class='white helv' style = 'margin-bottom:0px;
 																margin-top:0px;
 																color:#479099;'>Frameworks Used</h2>
@@ -173,7 +173,15 @@
 								<h5 class='skills helv' style = 'position:absolute;
 									top:306px;
 									left:70px;
-									width:45px;'>Vuejs</h5>
+									width:35px;'>Vuejs</h5>
+								<h5 class='skills helv' style = 'position:absolute;
+									top:306px;
+									left:125px;
+									width:35px;'>Vuex</h5>
+								<h5 class='skills helv' style = 'position:absolute;
+									top:343px;
+									left:0px;
+									width:49px;'>Angular</h5>
 							</div>
 							<div>
 								<h2 class='white helv' style = 'margin-bottom:0px;
@@ -224,7 +232,7 @@
 											<div class='ratingsColored'></div>
 											<div class='ratingsColored'></div>
 											<div class='ratingsColored'></div>
-											<div class='ratings'></div>
+											<div class='ratingsColored'></div>
 										</div>
 									</div>
 									<div>
@@ -244,7 +252,7 @@
 											<div class='ratingsColored'></div>
 											<div class='ratingsColored'></div>
 											<div class='ratingsColored'></div>
-											<div class='ratings'></div>
+											<div class='ratingsColored'></div>
 										</div>
 									</div>
 								</div>
@@ -276,7 +284,7 @@
 								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'> Darrel Remoroza - dlremoroza@owtel.com</p>
 							</div>
 							<div style = 'padding-left:20px;'>
-								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Senior Web Developer</h3>
+								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Lead Web Developer</h3>
 								<label class='helv' style ='margin:0px;'>Zamboanga City Medical Center</label>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Zamboanga City, Philippines</p>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>01/2017 - 03/2017</p>
