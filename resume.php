@@ -272,16 +272,17 @@
 										margin:0px;'>
 							</div>
 							<div style = 'padding-left:20px;'>
-								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>PHP Programmer</h3>
-								<label class='helv' style ='margin:0px;'>Compass Call Hub</label>
-								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Octagon Centre, Pasig, Metro Manila, Philippines</p>
-								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>07/04/2018 - Present</p>
+								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Software Engineer II</h3>
+								<label class='helv' style ='margin:0px;'>Nelsoft Systems Inc.</label>
+								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>8C Marc 2000 Tower, 1973 Taft Ave., Manila, Metro Manila, Philippines</p>
+								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>October 22, 2018 – February 25, 2019</p>
 								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px;'>Achievement/Tasks:</p>
 								<ul style ='margin:0px;'>
-									<li class='helv' style = 'font-size:12px; margin:0px;'>Maintain and develop websites for the company.</li>
+									<li class='helv' style = 'font-size:12px; margin:0px;'>Enhancement and maintenance of our “Business
+									Inventory and Retail System Application
+									Program” through the internet cloud. </li>
 								</ul>
-								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px; display:inline;'>Contact:</p>
-								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'> Darrel Remoroza - dlremoroza@owtel.com</p>
+								
 							</div>
 							<div style = 'padding-left:20px;'>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Lead Web Developer</h3>
