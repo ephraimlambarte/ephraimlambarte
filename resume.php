@@ -182,6 +182,14 @@
 									top:343px;
 									left:0px;
 									width:49px;'>Angular</h5>
+								<h5 class='skills helv' style = 'position:absolute;
+									top:343px;
+									left:70px;
+									width:55px;'>GraphQL</h5>
+								<h5 class='skills helv' style = 'position:absolute;
+									top:343px;
+									left:145px;
+									width:90px;'>Laravel Nova</h5>
 							</div>
 							<div>
 								<h2 class='white helv' style = 'margin-bottom:0px;
@@ -272,6 +280,16 @@
 										margin:0px;'>
 							</div>
 							<div style = 'padding-left:20px;'>
+								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>IT Consultant</h3>
+								<label class='helv' style ='margin:0px;'>Logyc</label>
+								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>July, 2019 – Present</p>
+								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px;'>Achievement/Tasks:</p>
+								<ul style ='margin:0px;'>
+									<li class='helv' style = 'font-size:12px; margin:0px;'>Lead and develop a supply chain platform that can help industrial businesses in their supply chain</li>
+								</ul>
+								
+							</div>
+							<div style = 'padding-left:20px;'>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Software Engineer II</h3>
 								<label class='helv' style ='margin:0px;'>Nelsoft Systems Inc.</label>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>8C Marc 2000 Tower, 1973 Taft Ave., Manila, Metro Manila, Philippines</p>
@@ -297,14 +315,6 @@
 								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'> Bartolome L. Madriaga - +63906 305 3124</p>
 							</div>
 							<div style = 'padding-left:20px;'>
-								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Python Apprentice</h3>
-								<label class='helv' style ='margin:0px;'>Home Based</label>
-								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Zamboanga City, Philippines</p>
-
-								<p class='helv date' style = 'color:#479099;  margin-top:5px; margin-bottom:5px; display:inline;'>Contact:</p>
-								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'>Engr. Marc Philippe De Villeres–mpdevilleres@gmail.com</p>
-							</div>
-							<div style = 'padding-left:20px;'>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>Junior Odoo Developer</h3>
 								<label class='helv' style ='margin:0px;'>Ameci Tumauini Based</label>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Isabela City, Philippines</p>
@@ -312,43 +322,15 @@
 								<p class='helv date' style = ' margin-top:5px; margin-bottom:5px; display:inline;'>Engr. Marc Philippe De Villeres–mpdevilleres@gmail.com</p>
 							</div>
 							<h2 class='white helv' style = 'margin-bottom:0px;
-															margin-top:20px;
-															color:#479099;
-															padding-left:20px;'>Certificates and awards</h2>
+							margin-top:20px;
+							color:#479099;
+							padding-left:20px;'>Education</h2>
 							<div style = 'width:100%; 
-										border-color:#479099; 
-										border-width:2px; 
-										height:1px; 
-										border-top-style:solid;
-										margin:0px;'>
-							</div>
-							<div class='helv' style = 'padding-left:20px;'>
-								<p class='certificates'>DEANS LISTER AWARD (12/2014)</p> 
-								<p class='certificates'>JAVA COMPETITION (11/2015)</p> 
-								<p class='certificates'>GOOGLE I/O ROADSHOW (07/2016)</p> 
-								<p class='certificates'>WEB PROGRAMMING COMPETITION (12/2016)</p> 
-								<p class='certificates'>DEANS LISTER AWARD (07/2016)</p> 
-								<p class='certificates'>ANDROID WORKSHOP (11/2016)</p> 
-								<p class='certificates'>RIS WORKSHOP (12/2017)</p> 
-								<p class='certificates'>MICROSOFT TECH TALK (04/2017)</p> 
-								<p class='certificates'>SERVICE AWARD (03/2017)</p> 
-								<p class='certificates'>DOCUMENT TRACKER INSTALLATION (07/2017)</p> 
-								<p class='certificates'>DEANS LISTER AWARD (12/2017)</p> 
-								<p class='certificates'>UNIVERSITY STUDENT COUNCIL (02/2018)</p> 
-							</div>
-							
-						</div>
-						<div>
-							<h2 class='white helv' style = 'margin-bottom:0px;
-															margin-top:20px;
-															color:#479099;
-															padding-left:20px;'>Education</h2>
-							<div style = 'width:100%; 
-										border-color:#479099; 
-										border-width:2px; 
-										height:1px; 
-										border-top-style:solid;
-										margin:0px;'>
+									border-color:#479099; 
+									border-width:2px; 
+									height:1px; 
+									border-top-style:solid;
+									margin:0px;'>
 							</div>
 							<div style = 'padding-left:20px; '>
 								<h3 class='helv' style = 'color:#479099; margin-bottom:0px;'>BS Computer Science</h3>
@@ -356,6 +338,10 @@
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>Zamboanga City, Philippines</p>
 								<p class='helv date' style = 'color:#479099; margin-top:5px; margin-bottom:5px;'>06/2014 - 03/2018</p>
 							</div>
+							
+						</div>
+						<div>
+							
 							<h2 class='white helv' style = 'margin-bottom:0px;
 							margin-top:20px;
 							color:#479099;
